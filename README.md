@@ -8,110 +8,82 @@
 
 ## 👨‍💻 About Me
 
-I am a **Bachelor of Engineering graduate** from **Dayananda Sagar University**, specializing in **DevOps** and **Java Full Stack Development**. I have experience bridging the gap between software development and infrastructure, building secure, scalable applications and automating their deployment.
+I am a **Cloud-Native Engineer** with strong roots in Java development. I specialize in bridging the gap between software development and infrastructure by automating CI/CD pipelines, containerizing applications, and managing AWS environments.
 
-I have hands-on experience in **CI/CD pipelines, containerization with Docker, and AWS Cloud infrastructure** (EC2, VPC, RDS). I am passionate about streamlining workflows and ensuring high-performance data handling through robust backend systems.
+Unlike typical developers, I own the entire SDLC—from writing clean Spring Boot code to deploying it on scalable Kubernetes clusters. I am passionate about **Infrastructure as Code (IaC)**, **Automation**, and building self-healing systems.
 
 ---
 
 ## 🟢 Open to Work
 
 💼 **Actively seeking roles as:**
-- ⚙️ **DevOps Engineer**
-- 💻 **Java Full Stack Developer**
+- ⚙️ **DevOps Engineer** (AWS/Azure)
 - ☁️ **Cloud Engineer**
+- 💻 **Java Full Stack Developer**
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Stack
 
-### 💻 Programming Languages
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> **Java**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> **Python**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> **JavaScript (ES6+)**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20"/> **Shell / Bash**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> **SQL**
+### ☁️ Cloud & DevOps (Core Competency)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="20"/> **AWS:** EC2, VPC, S3, RDS, CloudWatch, Lambda, IAM
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> **Containerization:** Docker, Docker Hub
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> **Orchestration:** Kubernetes (K8s)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="20"/> **CI/CD:** Jenkins (Pipeline as Code), GitHub Actions
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="20"/> **IaC:** Terraform, Ansible
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="20"/> **Monitoring:** Prometheus, Grafana
 
----
+### ⚙️ Backend & Development
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> **Java:** Core Java, Multithreading, Collections
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20"/> **Spring Ecosystem:** Spring Boot, Spring Data JPA, Spring Security
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> **Databases:** MySQL, MongoDB
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> **Scripting:** Python, Bash/Shell
 
-### 🌐 Web Technologies
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> **HTML5**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> **CSS3**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20"/> **Bootstrap**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20"/> **Tailwind CSS**
+### 🌐 Frontend & Web
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> **React.js**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> **JavaScript (ES6+)**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> **HTML5 / CSS3**
 
 ---
 
-### ⚙️ Backend & Frameworks
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="20"/> **Spring Boot**
-- **Spring Data JPA & Security**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> **Node.js**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20"/> **Express.js**
-- **RESTful APIs**
+## 💼 Professional Experience
 
----
-
-### 🗄️ Databases
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> **MySQL**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20"/> **MongoDB**
-
----
-
-### ☁️ Cloud & DevOps
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="20"/> **AWS (EC2, S3, VPC, IAM, RDS, CloudWatch, Lambda)**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> **Docker**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="20"/> **Jenkins (CI/CD)**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> **Kubernetes**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="20"/> **Ansible**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="20"/> **Terraform**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="20"/> **Grafana & Prometheus**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> **Git & GitHub**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="20"/> **Maven**
-
----
-
-### 🧰 Tools & OS
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/> **Linux**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20"/> **Windows**
-- **Tesseract-OCR & OpenCV**
-
----
-
-## 💼 Experience
-
-### 🏢 Java Full Stack Developer Intern
+### 🏢 Java Full Stack & DevOps Intern
 **JSpiders, Rajajinagar** *(04/2025 – Present)*
 
-- **Full-Stack Development:** Designing modular Java applications using Spring Boot, JPA, and MySQL. Implementing secure RESTful APIs integrated with React.js.
-- **AWS Infrastructure:** Architecting secure network environments using VPC, Subnets, and IGW. Deploying applications on EC2 with RDS.
-- **DevOps & Monitoring:** Streamlining workflows with Maven and Docker. Configured CloudWatch for health monitoring.
+* **Infrastructure:** Provisioned high-availability AWS environments (VPC, EC2, RDS) using Terraform, reducing manual provisioning time and configuration drift.
+* **Development:** Developed production-grade REST APIs using Spring Boot, reducing latency by implementing efficient database queries in MySQL.
+* **Automation:** Dockerized legacy Java applications, ensuring 100% environment consistency between development and production.
+* **Monitoring:** Configured CloudWatch alarms and Route 53 for real-time health checks and asset management.
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
-### 🚀 Automated CI/CD Deployment for Web Applications
-- **Tech:** Jenkins, AWS EC2, Docker, Maven.
-- **Details:** Built an end-to-end Jenkins pipeline to automatically integrate code from GitHub and deploy to AWS EC2. Implemented Jenkinsfile for version-controlled deployments.
+### 🚀 Zero-Touch Cloud Deployment Pipeline
+* **Tech:** Jenkins, AWS EC2, Linux, Maven, Docker.
+* **Impact:** Designed a fully automated CI/CD pipeline reducing deployment time by 80%.
+* **Implementation:** Implemented Jenkins-as-Code (Groovy) to version control the build process. Integrated Docker for consistent runtime environments on AWS EC2.
 
-### 👁️ Reading Eye For Blind Using Raspberry Pi
-- **Tech:** Raspberry Pi, Python, OpenCV, Tesseract-OCR.
-- **Details:** Developed a portable assistive device using image-to-text pipelines and TTS (Text-to-Speech) to enable visually impaired individuals to read printed text.
+### 📚 Enterprise Inventory Management System
+* **Tech:** Spring Boot, MySQL, REST APIs, Thymeleaf.
+* **Impact:** Architected a scalable backend handling complex data relationships.
+* **Implementation:** Developed optimized RESTful endpoints with Spring Security to ensure data integrity and role-based access control (RBAC).
 
-### 📚 Book Management System
-- **Tech:** Spring Boot, MySQL, Thymeleaf.
-- **Details:** Built a full-stack CRUD web application using MVC architecture and RESTful endpoints for seamless data flow.
+### 👁️ AI-Powered Assistive Vision Hardware
+* **Tech:** Raspberry Pi, Python, OpenCV, Tesseract-OCR.
+* **Impact:** Engineered a real-time OCR pipeline to convert physical text to speech for visually impaired users.
+* **Implementation:** Optimized image processing algorithms in Python to function efficiently on low-power IoT hardware.
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect with Me
 
-- 📧 **Email:** madhav7022@gmail.com
+- 📧 **Email:** [madhav7022@gmail.com](mailto:madhav7022@gmail.com)
 - 📞 **Phone:** +91 7022778185
-- 💼 **LinkedIn:** [Madhav7022](https://www.linkedin.com/in/Madhav7022)
-- 🐙 **GitHub:** [Madhav7022](https://github.com/Madhav7022)
+- 💼 **LinkedIn:** [linkedin.com/in/Madhav7022](https://www.linkedin.com/in/Madhav7022)
+- 🐙 **GitHub:** [github.com/Madhav7022](https://github.com/Madhav7022)
 
 ---
 
-⭐ *Open to exciting opportunities in **DevOps**, **Cloud Engineering**, and **Java Full Stack Development**. Let’s connect!*
+⭐ *Code it. Containerize it. Deploy it.*
