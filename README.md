@@ -60,7 +60,7 @@ Unlike typical developers, I own the entire SDLC—from writing clean Spring Boo
 
 ## 📌 Featured Projects
 
-### 🚀 Automated CI/CD Deployment for Web Applications
+### 🚀 Zero-Touch Cloud Deployment Pipeline
 * **Tech:** Jenkins, AWS EC2, GitHub, Linux, Maven, Spring Boot.
 * **Impact:** Achieved zero manual intervention in deployments by building an end-to-end Jenkins pipeline.
 * **Implementation:**
@@ -84,13 +84,16 @@ Unlike typical developers, I own the entire SDLC—from writing clean Spring Boo
 
 ---
 
-## 📫 Connect with Me
+<h3 align="left">📫 Connect with Me</h3>
 
-- 📧 **Email:** [madhav7022@gmail.com](mailto:madhav7022@gmail.com)
-- 📞 **Phone:** +91 7022778185
-- 💼 **LinkedIn:** [linkedin.com/in/Madhav7022](https://www.linkedin.com/in/Madhav7022)
-- 🐙 **GitHub:** [github.com/Madhav7022](https://github.com/Madhav7022)
-
----
-
-⭐ *Code it. Containerize it. Deploy it.*
+<p align="left">
+  <a href="mailto:madhav7022@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-madhav7022%40gmail.com-red?style=flat-square&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/madhavjadhav7022" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Madhav_Jadhav-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Madhav7022" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Madhav7022-black?style=flat-square&logo=github" alt="GitHub">
+  </a>
+</p>
