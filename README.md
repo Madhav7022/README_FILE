@@ -88,7 +88,7 @@ Unlike typical developers, I own the entire SDLC—from writing clean Spring Boo
 
 - 📧 **Email:** [madhav7022@gmail.com](mailto:madhav7022@gmail.com)
 - 📞 **Phone:** +91 7022778185
-- 💼 **LinkedIn:** [www.linkedin.com/in/madhavjadhav7022](www.linkedin.com/in/madhavjadhav7022)
+- 💼 **LinkedIn:** [linkedin.com/in/Madhav7022](https://www.linkedin.com/in/Madhav7022)
 - 🐙 **GitHub:** [github.com/Madhav7022](https://github.com/Madhav7022)
 
 ---
