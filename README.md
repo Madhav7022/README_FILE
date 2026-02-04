@@ -93,6 +93,9 @@ Unlike typical developers, I own the entire SDLC—from writing clean Spring Boo
   <a href="https://www.linkedin.com/in/madhavjadhav7022" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Madhav_Jadhav-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
+  <a href="https://wa.me/917022778185" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B91_7022778185-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
   <a href="https://github.com/Madhav7022" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Madhav7022-black?style=flat-square&logo=github" alt="GitHub">
   </a>
