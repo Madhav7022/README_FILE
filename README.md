@@ -26,7 +26,7 @@ Unlike typical developers, I own the entire SDLC—from writing clean Spring Boo
 ## 🛠️ Skills & Stack
 
 ### ☁️ Cloud & DevOps (Core Competency)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="20"/> **AWS:** EC2, VPC, S3, RDS, CloudWatch, Lambda, IAM
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20"/> **AWS:** EC2, VPC, S3, RDS, CloudWatch, Lambda, IAM
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> **Containerization:** Docker, Docker Hub
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> **Orchestration:** Kubernetes (K8s)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="20"/> **CI/CD:** Jenkins (Pipeline as Code), GitHub Actions
