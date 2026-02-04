@@ -51,29 +51,36 @@ Unlike typical developers, I own the entire SDLC—from writing clean Spring Boo
 ### 🏢 Java Full Stack & DevOps Intern
 **JSpiders, Rajajinagar** *(04/2025 – Present)*
 
-* **Infrastructure:** Provisioned high-availability AWS environments (VPC, EC2, RDS) using Terraform, reducing manual provisioning time and configuration drift.
-* **Development:** Developed production-grade REST APIs using Spring Boot, reducing latency by implementing efficient database queries in MySQL.
-* **Automation:** Dockerized legacy Java applications, ensuring 100% environment consistency between development and production.
-* **Monitoring:** Configured CloudWatch alarms and Route 53 for real-time health checks and asset management.
+* **Infrastructure:** Provisioned high-availability AWS environments (VPC, EC2, RDS) using Terraform, reducing manual provisioning time.
+* **Development:** Designed modular Java applications using Spring Boot, JPA, and MySQL. Implemented MVC architecture and OOP principles.
+* **Automation:** Dockerized legacy Java applications and streamlined workflows with Maven, ensuring 100% environment consistency.
+* **Monitoring:** Configured CloudWatch for real-time health monitoring and Route 53 for asset management.
 
 ---
 
 ## 📌 Featured Projects
 
-### 🚀 Zero-Touch Cloud Deployment Pipeline
-* **Tech:** Jenkins, AWS EC2, Linux, Maven, Docker.
-* **Impact:** Designed a fully automated CI/CD pipeline reducing deployment time by 80%.
-* **Implementation:** Implemented Jenkins-as-Code (Groovy) to version control the build process. Integrated Docker for consistent runtime environments on AWS EC2.
+### 🚀 Automated CI/CD Deployment for Web Applications
+* **Tech:** Jenkins, AWS EC2, GitHub, Linux, Maven, Spring Boot.
+* **Impact:** Achieved zero manual intervention in deployments by building an end-to-end Jenkins pipeline.
+* **Implementation:**
+    * **Pipeline as Code:** Implemented `Jenkinsfile` for version-controlled, environment-agnostic deployments.
+    * **Cloud Deployment:** Configured Linux services and security groups on AWS EC2 to expose the application publicly.
+    * **Reliability:** Automated background process management and utilized log analysis for resolving real-world deployment issues.
 
 ### 📚 Enterprise Inventory Management System
-* **Tech:** Spring Boot, MySQL, REST APIs, Thymeleaf.
-* **Impact:** Architected a scalable backend handling complex data relationships.
-* **Implementation:** Developed optimized RESTful endpoints with Spring Security to ensure data integrity and role-based access control (RBAC).
+* **Tech:** Spring Boot, Spring Data JPA, MySQL, Thymeleaf, Lombok.
+* **Impact:** Built a scalable full-stack CRUD application for managing book inventory with seamless data flow.
+* **Implementation:**
+    * **Architecture:** Implemented MVC architecture with RESTful endpoints and Dependency Injection.
+    * **Frontend:** Leveraged dynamic front-end rendering using Thymeleaf for a responsive user interface.
 
 ### 👁️ AI-Powered Assistive Vision Hardware
-* **Tech:** Raspberry Pi, Python, OpenCV, Tesseract-OCR.
-* **Impact:** Engineered a real-time OCR pipeline to convert physical text to speech for visually impaired users.
-* **Implementation:** Optimized image processing algorithms in Python to function efficiently on low-power IoT hardware.
+* **Tech:** Raspberry Pi, Python, OpenCV, Tesseract-OCR, Text-to-Speech (TTS).
+* **Impact:** Developed a portable assistive device enabling visually impaired individuals to read printed text.
+* **Implementation:**
+    * **Image Processing:** Engineered an image-to-text pipeline using OpenCV for pre-processing and Tesseract-OCR for accurate character recognition.
+    * **Hardware Integration:** Integrated a camera module on Raspberry Pi for real-time capture and a TTS engine for audible speech output.
 
 ---
 
